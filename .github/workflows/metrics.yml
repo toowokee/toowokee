@@ -40,11 +40,6 @@ jobs:
           # Isometric calendar
           plugin_isocalendar: yes
 
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
           # Stars
           plugin_stars: yes
           plugin_stars_limit: 4
